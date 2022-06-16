@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb94b94c5b6f8d46a45a45e236e6765, type: 3}
+  m_Name: Soru 5
+  m_EditorClassIdentifier: 
+  soru: "Susam Soka\u011F\u0131\u2019ndaki kukla karakterler Edi ile B\xFCd\xFC i\xE7in
+    hangisi do\u011Frudur?"
+  secenekler:
+  - "Edi ka\u015Fs\u0131z, B\xFCd\xFC biti\u015Fik ka\u015Fl\u0131d\u0131r"
+  - "B\xFCd\xFC Ka\u015Fs\u0131z, Edi ayr\u0131k ka\u015Fl\u0131d\u0131r"
+  - "Edi ka\u015Fs\u0131z, B\xFCd\xFC Ayr\u0131k ka\u015Fl\u0131d\u0131r"
+  - "B\xFCd\xFC ka\u015Fs\u0131z, Edi biti\u015Fik ka\u015Fl\u0131d\u0131r"
+  dogruSecenekIndexi: 0
